@@ -35,7 +35,7 @@ import org.jivesoftware.smack.util.StringUtils;
 public class WLMActivity extends Activity {
 
 	public static final String OAuthAppClientId = "0000000048058C2E";
-	public static final String OAuthAppRedirectUri = "http://xmpp.msgr-tst.com/desktop";
+	public static final String OAuthAppRedirectUri = "https://oauth.live.com/desktop";
 
 	private WebView mAppWebView;
 	private ListView mContacts;
